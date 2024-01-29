@@ -1,0 +1,1 @@
+import{_ as s,o,c as n,a as e}from"./app-1-osN3Y-.js";const t={},a=e("h1",{id:"hello-vuepress",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hello-vuepress"},[e("span",null,"Hello VuePress")])],-1),c=[a];function l(r,_){return o(),n("div",null,c)}const h=s(t,[["render",l],["__file","index.html.vue"]]);export{h as default};
